@@ -1,4 +1,4 @@
-So SimpleFragment
+ SimpleFragment First Push
 ==============
 
 Code for my Android Fragment tutorial
